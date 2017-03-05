@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/samuelohim/nodeSun1810/issues"
   },
-  "homepage": "https://github.com/samuelohim/nodeSun1810#readme"
+  "homepage": "https://github.com/samuelohim/nodeSun1810#readme",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
 }
